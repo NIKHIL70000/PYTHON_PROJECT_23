@@ -48,7 +48,7 @@ t.color("brown")
 t.shapesize(1)
 t.pencolor("gray30")
 
-t.speed(0)
+t.speed(100)
 turtle.tracer(0, 0)
 t.penup()
 t.goto(positions[0])
